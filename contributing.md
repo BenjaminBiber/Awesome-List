@@ -8,9 +8,8 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- All links must work and point to the corresponding Website or File
+- Dont use Slurs und Phrases that are humiliation
 
 Thank you for your suggestions!
 
