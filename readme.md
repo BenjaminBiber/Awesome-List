@@ -42,8 +42,10 @@
 
 - [BlazorLeafletInterop](https://github.com/bjtrounson/BlazorLeafletInterop)
 
-
-
+## Web Dev Tools
+- [Jam.dev]((https://jam.dev/utilities))
+- [Windows PowerToys]((https://github.com/microsoft/PowerToys))
+  
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
