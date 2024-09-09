@@ -45,6 +45,12 @@
 ## Web Dev Tools
 - [Jam.dev]((https://jam.dev/utilities))
 - [Windows PowerToys]((https://github.com/microsoft/PowerToys))
+
+  ## APIs
+  - [Movies](https://www.omdbapi.com/)
+  - [Chuck Norris] (https://api.chucknorris.io/)
+  - [Dog] (https://dog.ceo/dog-api/)
+  - [Tech Savy Texts] (https://techy-api.vercel.app/)
   
 ## Contribute
 
