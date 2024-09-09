@@ -7,6 +7,9 @@
 
 - [Html](#Html)
 - [Css](#Css)
+- [Blazor](#Blazor)
+- [Web Dev Tools](#Web Dev Tools)
+- [APIs](#APIs)
 
 
 ## Html
