@@ -46,11 +46,13 @@
 - [Jam.dev](https://jam.dev/utilities)
 - [Windows PowerToys](https://github.com/microsoft/PowerToys)
 
-  ## APIs
+## APIs
   - [Movies](https://www.omdbapi.com/)
   - [Chuck Norris](https://api.chucknorris.io/)
   - [Dog](https://dog.ceo/dog-api/)
   - [Tech Savy Texts](https://techy-api.vercel.app/)
+  - [Meals](https://www.themealdb.com/api.php)
+  - [Playing Cards](https://www.deckofcardsapi.com/)
   
 ## Contribute
 
