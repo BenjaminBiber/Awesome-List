@@ -48,9 +48,9 @@
 
   ## APIs
   - [Movies](https://www.omdbapi.com/)
-  - [Chuck Norris] (https://api.chucknorris.io/)
-  - [Dog] (https://dog.ceo/dog-api/)
-  - [Tech Savy Texts] (https://techy-api.vercel.app/)
+  - [Chuck Norris](https://api.chucknorris.io/)
+  - [Dog](https://dog.ceo/dog-api/)
+  - [Tech Savy Texts](https://techy-api.vercel.app/)
   
 ## Contribute
 
