@@ -43,8 +43,8 @@
 - [BlazorLeafletInterop](https://github.com/bjtrounson/BlazorLeafletInterop)
 
 ## Web Dev Tools
-- [Jam.dev]((https://jam.dev/utilities))
-- [Windows PowerToys]((https://github.com/microsoft/PowerToys))
+- [Jam.dev](https://jam.dev/utilities)
+- [Windows PowerToys](https://github.com/microsoft/PowerToys)
 
   ## APIs
   - [Movies](https://www.omdbapi.com/)
