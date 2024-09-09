@@ -56,6 +56,7 @@
   - [Meals](https://www.themealdb.com/api.php)
   - [Playing Cards](https://www.deckofcardsapi.com/)
   - [Translate](https://github.com/Uncover-F/TAS)
+  - [Cocktails](https://www.thecocktaildb.com/api.php?ref=apilist.fun)
   
 ## Contribute
 
