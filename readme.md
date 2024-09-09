@@ -55,6 +55,7 @@
   - [Tech Savy Texts](https://techy-api.vercel.app/)
   - [Meals](https://www.themealdb.com/api.php)
   - [Playing Cards](https://www.deckofcardsapi.com/)
+  - [Translate](https://github.com/Uncover-F/TAS)
   
 ## Contribute
 
