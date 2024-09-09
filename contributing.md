@@ -9,7 +9,7 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - All links must work and point to the corresponding Website or File
-- Dont use Slurs und Phrases that are humiliation
+- Dont use Slurs und Phrases that are humiliating
 
 Thank you for your suggestions!
 
